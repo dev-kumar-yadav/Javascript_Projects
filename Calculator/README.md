@@ -14,3 +14,7 @@ A basic calculator web app built with HTML, CSS, and JavaScript. It performs sim
 - HTML
 - CSS
 - JavaScript
+
+- ## 📸 Screenshots
+
+![Calculator Preview](https://raw.githubusercontent.com/dev-kumar-yadav/Javascript_Projects/main/Calculator/screenshots/demo.png)
